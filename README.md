@@ -6,3 +6,9 @@ nhìn rất kì.
 Nó giống kiểu thế này vậy
 
 ![image](https://user-images.githubusercontent.com/113530029/190911086-52b8f482-a754-41da-9e52-53fd2170fdcd.png)
+
+Vậy nên là, tìm cái flag có format đúng như quy định là được.
+
+`strings PikesPeak.jpg | grep CTFlearn`
+
+Done!
